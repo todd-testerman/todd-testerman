@@ -17,7 +17,6 @@ Microbiologist and bioinformatician with expertise in microbiome analysis and no
 
 - Ph.D. in Microbiology | **University of Connecticut** (Graf Lab)
 - B.S. | **The Ohio State University**
-- Recipient of the **MCB Microbiome Fellowship** (UConn Provost-sponsored)
 - **5 peer-reviewed publications** (4 as first author)
 
 ---
